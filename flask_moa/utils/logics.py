@@ -1,6 +1,8 @@
 from typing import Dict, List
 import collections
-
+'''
+코드 소스: https://github.com/2nd-wanted-pre-onboarding-team-b/Moadata_Wanted
+'''
 
 def __check_double_edge(g):
     """
